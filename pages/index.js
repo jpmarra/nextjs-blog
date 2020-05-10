@@ -14,8 +14,7 @@ export default function Home({ allPostsData }) {
             <section className={utilStyles.headingMd}>
                 <p>
                     Hi, Im <a href="https://www.jpmarra.com">JP Marra</a>! I'm a
-                    Brooklyn based software engineer currently working @ MLB
-                    with a focus on UI.
+                    Brooklyn based software engineer with a focus on UI.
                 </p>
                 <p>
                     (This is a sample website - you’ll be building a site like
